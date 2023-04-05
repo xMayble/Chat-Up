@@ -1,4 +1,4 @@
-# Unichat Application
+# ChatUp - A Convenient & Simple Messenger App!
 
 ![Chat Application](https://i.ibb.co/GJwyy9m/Bv9-Js3-QLOLY-HD.jpg)
 
