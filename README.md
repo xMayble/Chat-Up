@@ -13,6 +13,6 @@ Firebase and Chat Engine are greats tools to setup apps fast and easily - great 
 ## Presentation
 
 Full Video link: https://recordit.co/JP7FWAcevU
-Short Gif: http://g.recordit.co/JP7FWAcevU.gif
+Short Gif: <img src="http://g.recordit.co/JP7FWAcevU.gif" />
 
 
