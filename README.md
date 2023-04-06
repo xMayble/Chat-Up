@@ -1,5 +1,6 @@
 # ChatUp - A Convenient & Simple Messenger App!
 
+Link: https://thechatup.netlify.app
 <img width="1427" alt="chat_up_thumbnail" src="https://user-images.githubusercontent.com/59211101/230222954-24528e37-7e2a-4294-b2bc-05d4379c7537.png">
 
 
