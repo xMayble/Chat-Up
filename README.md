@@ -10,7 +10,7 @@ Full Realtime Chat Application with Social Auth and dedicated chat APIs/sockets.
 
 Built chat apps using [https://chatengine.io](https://chatengine.io)
 
-Firebase and Chat Engine are greats tools to setup apps fast and easily - great to learn with!
+Welcome to a full-fledged Firebase Chat Application! This app is built using cutting-edge technologies such as Firebase Social Login, React Context API, Chat Engine, and REST API's. It comes packed with features such as social authentication using Google and Facebook, online statuses, image support, sound notifications, and the ability to create multiple rooms. The app is designed to provide a seamless and intuitive chatting experience, with a clean and modern design that is sure to impress. Whether you're chatting with friends, family, or colleagues, our chat app is the perfect tool to keep in touch. So why wait? Sign up now and start chatting!
 
 ## Presentation
 
